@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student | Booking</title>
+    <link rel="stylesheet" href="/static/viewBookings.css">
+    <link rel="stylesheet" href="/static/standardStyle.css">
+    <link rel="stylesheet" href="/static/backgroundImage.css">
+</head>
+<body>
+    <div id="navbarStudent"></div>
+    <br><br><br><br><br>
+    <div class="container">
+        <!-- <h2>Bookings</h2> -->
+        <br><br><br><br><br>
+        <div id="message" class="message"></div>
+        <table id="bookingsTable">
+            <h2>Bookings</h2>
+            <form action="/student/viewOldBooking.html" method="GET">
+                <button class="secondary-button" type="submit">View Old Bookings</button>
+            </form>
+            <tbody id="bookings"></tbody>
+        </table>
+        <br><br><br><br><br><br><br><br><br><br>
+    </div>
+    <div id="footer" class="footer"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/script/standardScript.js"></script>
+    <script src="/script/student/script.js"></script>
+    <script src="/script/shouldDisableLaunchButton.js"></script>
+    <script src="/script/bookingDateFormat.js"></script>
+    <script src="/script/student/payLesson.js"></script>
+    <script src="/script/student/bookingButtons.js"></script>
+    <script src="/script/student/pages/viewBooking.js"></script>
+</body>
+</html>
