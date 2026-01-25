@@ -63,7 +63,20 @@ Over **400 hours** were spent designing, coding, testing, and refining the platf
 ---
 
 ## Screenshots  
-Coming soon...
+
+### Home page
+![Home page](screenshots/welcome.png)
+
+### Tutor Registration
+![Tutor Registration](screenshots/register.png)
+
+### Tutor Registration Successful
+![Register success](screenshots/register-success.png)
+
+### Tutor Login
+![Tutor Login](screenshots/tutor-login.png)
+
+More images coming soon...
 
 ---
 
