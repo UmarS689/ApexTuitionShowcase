@@ -67,16 +67,90 @@ Over **400 hours** were spent designing, coding, testing, and refining the platf
 ### Home page
 ![Home page](screenshots/welcome.png)
 
-### Tutor Registration
+### Tutor registration
 ![Tutor Registration](screenshots/register.png)
 
-### Tutor Registration Successful
-![Register success](screenshots/register-success.png)
+### Profile setup
+![Profile Setup](screenshots/profileSetup.jpeg)
 
-### Tutor Login
-![Tutor Login](screenshots/tutor-login.png)
+### Uploading ID
+![Uploading ID](screenshots/UploadID.png)
 
-More images coming soon...
+### ID verified
+![ID Verified](screenshots/Student-idVerified.png)
+
+### Tutor homepage
+![Tutor Homepage](screenshots/Tutor-homepage.jpeg)
+
+### Tutor adding subjects
+![Tutor Adding Subjects](screenshots/Tutor-addSubjects.png)
+
+### Tutor adding available days
+![Tutor Adding Days](screenshots/Tutor-addDays.png)
+
+### Student homepage
+#### The profile setup and id verification is identical to tutors' so they are not shown here.
+![Student Homepage](screenshots/Student-homepage.jpeg)
+
+### Student adding subjects
+![Student Adding Subjects](screenshots/Student-addingSubject.jpeg)
+
+
+### Student finding a tutor (based on subjects added)
+![Student Finding a Tutor](screenshots/Student-findingTutors.png)
+
+### Student clicking on a tutor's details
+![Student Clicking on a Tutor's Details](screenshots/Student-foundTutor.jpeg)
+
+### Student sending a message to a tutor
+![Student Messaging Potential Tutor](screenshots/Student-sendingMessage.jpeg)
+
+### Tutor viewing the message that the student has seen
+![Tutor viewing the message](screenshots/Tutor-seeingMessenger.png)
+
+### Tutor creating an invalid lesson request
+![Tutor creating a new booking](screenshots/Tutor-newBookingInvalid.jpeg)
+
+### Tutor creating a new valid lesson request
+![Tutor creating a valid booking](screenshots/Tutor-newBookingCorrect.jpeg)
+
+### Tutor bookings page
+![Tutor bookings page](screenshots/Tutor-bookings.jpeg)
+
+### Tutor messaging student 
+![Tutor messaging with bookings](screenshots/Tutor-messageWithBooking.jpeg)
+
+### Student's booking page
+![Student seeing a tutor's booking request](screenshots/Student-bookings.jpeg)
+
+### Student's booking page after confirming a lesson
+![Student Confirming Lesson](screenshots/Student-launchlesson.png)
+
+### Tutor writing down lesson topics
+![Tutor writing lesson topics](screenshots/Tutor-lessonTopics.jpeg)
+
+### Tutor writing a lesson report
+![Tutor writing lesson report](screenshots/Tutor-lessonreport.jpeg)
+
+### Student giving a review to a tutor
+![Student Adding Subjects](screenshots/Student-addingSubject.jpeg)
+
+### Tutor homework page
+![Tutor empty homework page](screenshots/Tutor-homeworkTableEmpty.png)
+
+### Tutor creating new homework
+![Tutor new homework](screenshots/Tutor-newHomework.jpeg)
+
+### Tutor homework page (after creating new homework)
+![Tutor homework page](screenshots/Tutor-homeworkTable.png)
+
+### Student homework page
+![Student homework page](screenshots/Student-homeworkTable.png)
+
+### Student answering question
+![Student answering homework](screenshots/Student-answerSubmission.png)
+
+
 
 ---
 
